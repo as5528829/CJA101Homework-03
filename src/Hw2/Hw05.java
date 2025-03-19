@@ -9,9 +9,7 @@ public class Hw05 {
 		    System.out.println(i);
 		    sum++;
 		}
-		System.out.println(sum);
-	        
-			
+		System.out.println(sum);	       			
     }
 }	
 		
