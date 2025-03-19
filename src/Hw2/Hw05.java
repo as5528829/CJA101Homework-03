@@ -9,7 +9,7 @@ public class Hw05 {
 		    System.out.println(i);
 		    sum++;
 		}
-		System.out.println(sum);	       			
+		System.out.println("共有"+ sum + "個");	       			
     }
 }	
 		
